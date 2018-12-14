@@ -3,10 +3,10 @@ const log = console.log
 
 const connection = mysql.createConnection({
   port: 3306,
-  host: "localhost",
-  user: "root",
-  password: "root",
-  database: "burgers_db",
+  host: "nuskkyrsgmn5rw8c.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	",
+  user: "ffphy8rwjyvp3egb	",
+  password: "	hlngcsd0setbb1ab",
+  database: "ot8pm7w3l7jgid8g",
   insecureAuth: true
 });
 
